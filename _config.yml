@@ -7,25 +7,21 @@
 #
 # # Site settings
 title:
-  en: Iñaki Respaldiza
-  es: Iñaki Respaldiza
-email: info@irespaldiza.com
+  es: Antonio Aumesquet Ramos 
+email: antonio.aumesquet@gmail.com
 description:
-  en: Iñaki Respaldiza personal WebSite
-  es: Pagina personal de Iñaki Respaldiza
-  index:
-  en:
+  es: Pagina personal de Antonio Aumesquet
+index:
   es: indice.html
 feed:
-  en: /feed.xml
   es: /flujo.xml
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: irespaldiza
-github_username: irespaldiza 
-linkedin_username: irespaldiza
-wordpress_username: irespaldiza
-facebook_username: irespaldiza 
-flicker_username: cubozoo 
+# twitter_username: irespaldiza
+# github_username: irespaldiza 
+# linkedin_username: irespaldiza
+# wordpress_username: irespaldiza
+# facebook_username: irespaldiza 
+# flicker_username: cubozoo 
 # Build settings
 markdown: kramdown
