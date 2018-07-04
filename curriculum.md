@@ -29,5 +29,6 @@ lang: es
 - 2000 - 2001 Redacción Radiofónica y Locución en Antena Sevilla.
 
 ### Informática
-Nivel professional: Photoshop, Lightroom, Freehand MX, Quark-XPress, InDesign e Illustrator.
-Nivel usuario en el pack de M. Office y en los programas de Edición de Video: Adobe Premiere, Final Cut Pro e IMovie.
+- Nivel professional: Photoshop, Lightroom, Freehand MX, Quark-XPress, InDesign e Illustrator.
+- Nivel medio en Ofimatica: M. Office
+- Nivel usuario en programas de Edición de Video: Adobe Premiere, Final Cut Pro e IMovie.
