@@ -12,7 +12,7 @@ email: antonio.aumesquet@gmail.com
 description:
   es: Pagina personal de Antonio Aumesquet
 index:
-  es: indice.html
+  es: index.html
 feed:
   es: /flujo.xml
 baseurl: "/" # the subpath of your site, e.g. /blog
