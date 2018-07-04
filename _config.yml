@@ -17,11 +17,12 @@ feed:
   es: /flujo.xml
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: irespaldiza
+twitter_username: a_mesket
 # github_username: irespaldiza 
-# linkedin_username: irespaldiza
+# linkedin_username: a_mesket
 # wordpress_username: irespaldiza
 # facebook_username: irespaldiza 
 # flicker_username: cubozoo 
+instagram_username: www.instagram.com/arte.mesket
 # Build settings
 markdown: kramdown
